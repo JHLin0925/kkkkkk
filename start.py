@@ -1,2 +1,2 @@
-s="Hello"
+s=3**2
 print(s)
